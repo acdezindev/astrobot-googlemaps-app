@@ -10,11 +10,11 @@ Aplicación Android que implementa una gincana interactiva con Google Maps, dond
 
 |                          |                                  |                                  |                                        |
 |:------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------------:|
-| ![Mapa](images/mapa.png) | ![MapaZoom](images/mapaZoom.png) | ![Permisos](images/permisos.png) | ![Ubicacion](images/UbicacionMapa.png) |
+| ![Mapa](images/mapa.png) | ![MapaZoom](images/mapaZoom.png) | ![Permisos](images/Permisos.png) | ![Ubicacion](images/UbicacionMapa.png) |
 
 |                                           |                                                |                                  |                                      |
 |:-----------------------------------------:|:----------------------------------------------:|:--------------------------------:|:------------------------------------:|
-| ![Pregunta Mapa](images/preguntaMapa.png) | ![PreguntaDialogo](images/preguntaDialogo.png) | ![Correcta](images/correcta.png) | ![Incorrecta](images/Incorrecta.png) |
+| ![Pregunta Mapa](images/preguntaMapa.png) | ![PreguntaDialogo](images/preguntaDialogo.png) | ![Correcta](images/correcta.png) | ![incorrecta](images/Incorrecta.png) |
 
 ---
 
