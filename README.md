@@ -14,7 +14,7 @@ Aplicación Android que implementa una gincana interactiva con Google Maps, dond
 
 |                                           |                                                |                                  |                                      |
 |:-----------------------------------------:|:----------------------------------------------:|:--------------------------------:|:------------------------------------:|
-| ![Pregunta Mapa](images/preguntaMapa.png) | ![PreguntaDialogo](images/preguntaDialogo.png) | ![Correcta](images/correcta.png) | ![incorrecta](images/Incorrecta.png) |
+| ![Pregunta Mapa](images/preguntaMapa.png) | ![PreguntaDialogo](images/preguntaDialogo.png) | ![Correcta](images/correcta.png) | ![incorrecta](images/incorrecta.png) |
 
 ---
 
